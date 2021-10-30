@@ -1,3 +1,4 @@
+//Student Encapsulated Class
 public class studentEncapsulated {
     private String name;
     private int[] result=new int[5];
